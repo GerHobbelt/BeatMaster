@@ -1,0 +1,3 @@
+[submodule "lib/js/animation-frame"]
+	path = lib/js/animation-frame
+	url = git@github.com:GerHobbelt/animation-frame.git
