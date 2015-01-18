@@ -106,6 +106,7 @@ function register_remote {
 
 
 register_remote lib/js/animation-frame                                        clariture                                git@github.com:clariture/animation-frame.git                                     $# $@
+register_remote lib/js/animation-frame                                        kof                                      git@github.com:kof/animation-frame.git                                           $# $@
 register_remote lib/js/animation-frame                                        kof-original                             git@github.com:kof/animation-frame.git                                           $# $@
 register_remote lib/js/animation-frame                                        ponychicken                              git@github.com:ponychicken/animation-frame.git                                   $# $@
 
